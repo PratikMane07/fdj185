@@ -6,5 +6,10 @@ public class Test {
 	{
 		System.out.println("this is addition method");
 	}
+
+	public void m1()
+	{
+		
+	}
 	
 }
